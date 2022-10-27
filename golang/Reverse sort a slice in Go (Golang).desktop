@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Reverse sort a slice in Go (Golang)
+Comment=
+Icon=user-bookmarks
+URL=https://gosamples.dev/sort-slice-reverse/
